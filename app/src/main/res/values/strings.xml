@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bluetooth_Ball</string>
+    <string name="Info">To play this game you have to pair devices over Bluetooth first :)
+
+                        First choose who is gonna be host, click "host", then the other person should click "guest" and wait.
+
+                        Have fun!
+    </string>
+
+
+</resources>
